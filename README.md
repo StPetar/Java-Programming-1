@@ -9,3 +9,5 @@ In this semester the prerequisite for the final exam was to create a basic calcu
 
 After that I needed to expand the functions of the calculator to such a point that the correct calculation of a quadratic formula(ax^2+bx+c) using integers(or technically Strings in my case), regardless of their lenght, would be possible.
 
+
+**Terminal was a function/libarary provided to us by our Professor, it's intention was to make errors and their origin more obvious**
