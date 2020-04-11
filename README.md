@@ -5,4 +5,4 @@ The assignment for this semesters prerequisite for the exam was to create a basi
 
 We then had to expand the functions with other ones usually found in a calculator such as times and power of 2
 
-Ultimate goal was to be able to calculate a quadratic function (ax^2+bx+c) using integer regardless of their lenght.
+Ultimate goal was to be able to calculate a quadratic formula (ax^2+bx+c) using integer regardless of their lenght.
