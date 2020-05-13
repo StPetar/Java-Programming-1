@@ -1,5 +1,5 @@
-# S1-Prog
-Semester 1 Java Programming Class
+# S1-Programming
+Semester 1 Java Programming Class - Console calculator
 ## Using this implementation of a basic calculator, we can bypass the 32bit limit of the int in java and perform mathematical functions with endlessly big numbers without the need of external libraries.
 
 #### A limitation we had was to only use Strings and their properties. No conversion from String to int or similar was allowed. No external libraries, such as BigInteger, allowed
