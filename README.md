@@ -1,4 +1,4 @@
-# S1-Programming
+# Java Programming - Semester 1
 Semester 1 Java Programming Class - Console calculator
 ## Using this implementation of a basic calculator, we can bypass the 32bit limit of the int in java and perform mathematical functions with endlessly big numbers without the need of external libraries.
 
